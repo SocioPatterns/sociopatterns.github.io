@@ -16,7 +16,7 @@ bibtex: |-
   month = {Jun},
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevLett.130.247401},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.130.247401}
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.130.247401},
    keywords = {SocioPatterns}
   }
 external_url: https://doi.org/10.1103/PhysRevLett.130.247401
