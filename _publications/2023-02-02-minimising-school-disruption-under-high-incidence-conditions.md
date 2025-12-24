@@ -2,7 +2,7 @@
 title: 'Minimising school disruption under high incidence conditions due to the Omicron variant in France, Switzerland, Italy, in January 2022'
 slug: minimising-school-disruption-under-high-incidence-conditions
 date: '2023-02-02'
-reference: The Lancet Infectious Diseases 22(7), 977 (2022)
+reference: Euro Surveill. 2023;28(5):pii=2200192
 bibtex: ''
 external_url:  https://doi.org/10.2807/1560-7917.ES.2023.28.5.2200192
 pdf_url: /assets/papers/eurosurv-28-5-5.pdf
