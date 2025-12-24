@@ -3,7 +3,16 @@ title: 'Minimising school disruption under high incidence conditions due to the 
 slug: minimising-school-disruption-under-high-incidence-conditions
 date: '2023-02-02'
 reference: Euro Surveill. 2023;28(5):pii=2200192
-bibtex: ''
+bibtex: |-
+  @article{colosi2022minimizing,
+  title={Minimising school disruption under high incidence conditions due to the Omicron variant in France, Switzerland, Italy, in January 2022},
+  author={Colosi, Elisabetta and Bassignana, Giulia and Barrat, Alain and Lina, Bruno and Vanhems, Philippe and Bielicki, Julia and Colizza, Vittoria},
+  journal={Eurosurveillance},
+  volume={28},
+  number={5},
+  pages={2200192},
+  year={2023},
+  publisher={European Centre for Disease Prevention and Control}}
 external_url:  https://doi.org/10.2807/1560-7917.ES.2023.28.5.2200192
 pdf_url: /assets/papers/eurosurv-28-5-5.pdf
 abstract: |-
