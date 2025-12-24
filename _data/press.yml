@@ -1,5 +1,13 @@
 - id: press_01
   source: CNRS News
+  title: 'Les nouvelles technologies pour mesurer les réseaux sociaux des primates'
+  date_text: Apr. 8, 2020
+  url: https://www.insb.cnrs.fr/fr/cnrsinfo/les-nouvelles-technologies-pour-mesurer-les-reseaux-sociaux-des-primates
+  full_text: 'CNRS News - Les nouvelles technologies pour mesurer les réseaux sociaux des primates  - Feb. 15, 2016'
+  date: '2020-04-08'
+  
+- id: press_01
+  source: CNRS News
   title: 'Modelling epidemics: back to school'
   date_text: Feb. 15, 2016
   url: https://news.cnrs.fr/opinions/modeling-epidemics-back-to-school
