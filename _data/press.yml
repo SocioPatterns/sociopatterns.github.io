@@ -1,9 +1,30 @@
-- id: press_51
+- id: press_54
   source: Northeastern Global News 
   title: 'Why big groups split into little ones — and why your holiday dinner table is like a social science experiment'
   date_text: Dec. 11, 2024
   url: https://news.northeastern.edu/2024/12/11/social-group-dynamics-holidays/
   date: '2024-12-11'
+
+- id: press_53
+  source: Maker Faire
+  title: 'Scoprire e bloccare le infezioni in ospedale: la soluzione da una nuova ricerca'
+  date_text: May 8, 2024
+  url: https://makerfairerome.eu/blog/scoprire-e-bloccare-le-infezioni-in-ospedale/
+  date: '2024-05-08'
+
+- id: press_52
+  source: myScience
+  title: 'Identificare e interrompere le vie di trasmissione delle infezioni negli ospedali'
+  date_text: Feb. 27, 2024
+  url: https://www.myscience.ch/it/news/2024/uebertragungswege_von_infektionen_in_spitaelern_auffinden_und_unterbrechen-2024-ethz
+  date: '2024-02-27'
+
+- id: press_51
+  source: ETH Zurich press release
+  title: 'Finding and blocking infection routes in hospitals'
+  date_text: Feb. 27, 2024
+  url: https://ethz.ch/en/news-and-events/eth-news/news/2024/02/finding-and-blocking-infection-routes-in-hospitals.html
+  date: '2024-02-27'
 
 - id: press_50
   source: The Conversation
