@@ -1,0 +1,3 @@
+This is the web site of the SocioPatterns collaboration.
+
+SocioPatterns is an **interdisciplinary, international research collaboration** that measures and studies **human and animal proximity networks** using **wearable devices** and wireless sensor networks. We apply methods from data science, network science, and machine learning to investigate problems in the epidemiology of infectious diseases, computational epidemiology, social network analysis, computational social science, and beyond. From schools and hospitals to museums, social gatherings, and households, we collect data across **a wide range of real-world environments**. Over the last 15+ years, our **open data** has enabled thousands of studies.
