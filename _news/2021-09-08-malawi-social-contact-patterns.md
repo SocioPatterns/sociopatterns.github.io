@@ -10,9 +10,9 @@ We have published a <a href="https://epjdatascience.springeropen.com/articles/10
 Using wearable proximity sensors, we measured contact patterns among 164 individuals over five days in a village in southern Malawi. The data reveal contact patterns that differ substantially from those observed in high-income countries, with implications for understanding respiratory disease transmission in low-resource settings. The study highlights the importance of collecting empirical contact data across diverse populations and environments to inform public health interventions.
 
 <figure class="sp-figure">
-  <a href="/assets/img/roll/malawi2023_socnet.jpg">
+  <a href="/assets/img/malawi2023_socnet.jpg">
     <img
-      src="/assets/img/roll/malawi2023_socnet.jpg"
+      src="/assets/img/malawi2023_socnet.jpg"
       alt=""
       loading="lazy"
     >
