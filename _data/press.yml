@@ -379,16 +379,32 @@
   title: Quand la RFID décrypte les interactions sociales
   date_text: Dec 1, 2008
   url:
-  full_text: Atelier.fr - Quand la RFID décrypte les interactions sociales - Dec 1,
-    2008
+  full_text: Atelier.fr - Quand la RFID décrypte les interactions sociales - Dec 1, 2008
   date: '2008-12-01'
 
 - id: press_45
+  source: Heraldo
+  title: 'Estamos construyendo un atlas del contacto humano'
+  date_text: Feb. 13, 2018
+  url: https://www.heraldo.es/noticias/sociedad/2018/02/13/ciro-cattuto-estamos-construyendo-atlas-del-contacto-humano-1224460-310.html
+  full_text: 'Heraldo - Estamos construyendo un atlas del contacto humano - Feb. 13, 2018'
+  date: '2019-02-13'
+
+- id: press_45b
   source: Le Monde
-  title: 'La physique et les ressorts de l’influence sociale'
+  title: 'La physique et les ressorts de l''influence sociale'
   date_text: Sep. 18, 2019
   url: https://www.cpt.univ-mrs.fr/~barrat/lemonde20190918.pdf
+  full_text: 'Le Monde - La physique et les ressorts de l''influence sociale - Sep. 18, 2019'
   date: '2019-09-18'
+
+- id: press_45b
+  source: Der Spiegel International
+  title: 'A New Infection Alarm System on Your Smartphone'
+  date_text: Apr. 2, 2020
+  url: https://www.spiegel.de/international/europe/fighting-coronavirus-a-new-infection-alarm-system-on-your-smartphone-a-b4b35e3c-6499-4487-a689-6008d8d7ecc8
+  full_text: 'Der Spiegel International - A New Infection Alarm System on Your Smartphone - Apr. 2, 2020'
+  date: '2020-04-02'
 
 - id: press_46
   source: CNRS News
@@ -399,6 +415,14 @@
   date: '2020-04-08'
 
 - id: press_46b
+  source: The Economist
+  title: 'App-based contact tracing may help countries get out of lockdown'
+  date_text: Apr. 16, 2020
+  url: https://www.economist.com/science-and-technology/2020/04/16/app-based-contact-tracing-may-help-countries-get-out-of-lockdown
+  full_text: 'The Economist - App-based contact tracing may help countries get out of lockdown - Apr. 16, 2020'
+  date: '2020-04-16'
+
+- id: press_46c
   source: CNRS Le Journal
   title: 'Des graphes pour planifier le déconfinement ?'
   date_text: Apr. 23, 2020
@@ -406,6 +430,29 @@
   full_text: 'CNRS Le Journal - Des graphes pour planifier le déconfinement ?  - Apr. 23, 2020'
   date: '2020-04-23'
 
+- id: press_46d
+  source: WIRED Italy
+  title: 'Perché non dobbiamo dimenticarci del contact tracing digitale'
+  date_text: Mar. 15, 2021
+  url: https://www.wired.it/attualita/tech/2021/03/15/contact-tracing-app-immuni-contagi/
+  full_text: 'WIRED Italy - Perché non dobbiamo dimenticarci del contact tracing digitale - Mar. 15, 2021'
+  date: '2021-03-15'
+
+- id: press_46e
+  source: Nature Italy
+  title: 'COVID-19 apps are effective even with 20% uptake'
+  date_text: Mar. 25, 2021
+  url: https://www.nature.com/articles/d43978-021-00034-5
+  full_text: 'Nature Italy - COVID-19 apps are effective even with 20% uptake - Mar. 25, 2021'
+  date: '2021-03-25'
+
+- id: press_46e
+  source: Domani
+  title: 'Abbiamo ancora bisogno di app per tracciare i contagi'
+  date_text: Mar. 28, 2021
+  url: https://www.editorialedomani.it/tecnologia/abbiamo-ancora-bisogno-di-app-per-tracciare-i-contagi-dz22vw4g
+  full_text: 'Domani - Abbiamo ancora bisogno di app per tracciare i contagi - Mar. 28, 2021'
+  date: '2021-03-28'
 
 - id: press_47
   source: Le Monde
