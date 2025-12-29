@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Digital contact tracing for COVID-19: effectiveness study published in Journal of the Royal Society Interface'
+title: 'The effectiveness of digital contact tracing for COVID-19'
 date: '2021-05-05 12:00:00'
 slug: covid-19-contact-tracing-effectiveness
 ---

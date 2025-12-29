@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'New algorithm preserves friendship patterns when generating synthetic school contact data'
+title: 'New algorithm to generate synthetic school contact data'
 date: '2024-12-09 09:00:00'
 slug: synthetic-networks-preserving-friendships
 ---

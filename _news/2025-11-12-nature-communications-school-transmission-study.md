@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Study in Nature Communications reveals shared spaces drive school transmission more than close contact'
+title: 'Study in Nature Communications reveals the relative contribution to transmisison of shared spaces vs close contacts'
 date: '2025-11-12 09:00:00'
 slug: nature-communications-school-transmission-study
 ---

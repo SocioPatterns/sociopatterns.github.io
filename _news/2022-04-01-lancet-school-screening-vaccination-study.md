@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Lancet Infectious Diseases: Keeping schools open during COVID-19 through screening and vaccination'
+title: 'Keeping schools open during COVID-19 through screening and vaccination'
 date: '2022-04-01 10:00:00'
 slug: lancet-school-screening-vaccination-study
 ---

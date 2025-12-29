@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'New findings on SARS-CoV-2 household transmission published in eLife'
+title: 'New findings on SARS-CoV-2 household transmission'
 date: '2023-06-20 11:00:00'
 slug: sars-cov-2-household-transmission-south-africa
 ---

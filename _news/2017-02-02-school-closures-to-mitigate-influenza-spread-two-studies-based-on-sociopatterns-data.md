@@ -1,7 +1,6 @@
 ---
 layout: news_item
-title: 'School closures to mitigate influenza spread: two studies based on SocioPatterns
-  data'
+title: 'School closures to mitigate influenza spread: two studies based on SocioPatterns data'
 date: '2017-02-02 13:10:33'
 slug: school-closures-to-mitigate-influenza-spread-two-studies-based-on-sociopatterns-data
 wp_permalink: news/2017/02/school-closures-to-mitigate-influenza-spread-two-studies-based-on-sociopatterns-data/
