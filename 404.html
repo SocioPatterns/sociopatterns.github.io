@@ -11,17 +11,6 @@ permalink: /404.html
     <p class="error-404-message">
       Sorry, the page you're looking for doesn't exist or may have been moved.
     </p>
-    <div class="error-404-links">
-      <a href="{{ '/' | relative_url }}" class="error-404-button">Return Home</a>
-      <span class="error-404-separator">or browse:</span>
-      <ul class="error-404-nav">
-        <li><a href="{{ '/publications.html' | relative_url }}">Publications</a></li>
-        <li><a href="{{ '/datasets.html' | relative_url }}">Data</a></li>
-        <li><a href="{{ '/gallery.html' | relative_url }}">Gallery</a></li>
-        <li><a href="{{ '/news.html' | relative_url }}">News</a></li>
-        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-      </ul>
-    </div>
   </div>
 </div>
 
@@ -57,60 +46,6 @@ permalink: /404.html
   margin: 1.5rem 0 2.5rem;
 }
 
-.error-404-links {
-  margin-top: 2rem;
-}
-
-.error-404-button {
-  display: inline-block;
-  background: #eb6b2d;
-  color: #ffffff;
-  padding: 0.75rem 2rem;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: background 0.2s ease;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-size: 0.95em;
-}
-
-.error-404-button:hover {
-  background: #d45a1f;
-  text-decoration: none;
-}
-
-.error-404-separator {
-  display: block;
-  margin: 2rem 0 1rem;
-  color: #777;
-  font-size: 0.95em;
-}
-
-.error-404-nav {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem 1.5rem;
-}
-
-.error-404-nav li {
-  display: inline;
-}
-
-.error-404-nav a {
-  color: #eb6b2d;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.error-404-nav a:hover {
-  text-decoration: underline;
-}
-
 @media (max-width: 600px) {
   .error-404-title {
     font-size: 5rem;
@@ -122,11 +57,6 @@ permalink: /404.html
 
   .error-404-message {
     font-size: 1rem;
-  }
-
-  .error-404-nav {
-    flex-direction: column;
-    gap: 0.5rem;
   }
 }
 </style>
