@@ -1,7 +1,7 @@
 ---
 title: Relationship between household attributes and contact patterns in urban and rural South Africa
 slug: relationship-household-attributes-contact-patterns-south-africa
-date: '2025-03-23'
+date: '2026-03-23'
 reference: PLoS ONE 21(3), e0344732 (2026)
 bibtex: |-
   @article{Tjikundi2026PLoSONE,
