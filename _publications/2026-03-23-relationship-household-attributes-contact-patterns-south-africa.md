@@ -28,7 +28,7 @@ abstract: |-
   household type (whether it is composed only of a familiar nucleus or by a larger group), the gender of its head (the primary decision-maker), the rural or urban context,
   and the season in which it was measured. We show the household type and the gender of its head induce differences in the interaction patterns between household members,
   particularly regarding child caregiving, suggesting they are relevant attributes to include in epidemic modeling.
-authors: 
+authors: Kausutua Tjikundi, Jackie Kleynhans, Stefano Tempia, Cheryl Cohen, Daniela Paolotti, Ciro Cattuto, Lorenzo Dall’Amico
 pid: Tjikundi2026PLoSONE
 layout: publication_item
 ---
