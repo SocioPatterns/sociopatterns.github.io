@@ -530,16 +530,16 @@
   source: La Stampa Torino
   title: 'Bolla Spaziale'
   date_text: May 28, 2026
-  url:
+  url: /assets/pdf/lastampa_28may26_p18.pdf
   full_text: 'La Stampa Torino – Bolla Spaziale – May 28, 2026'
   date: '2026-05-28'
 
 - id: press_57
-  source: Corrier Della Sera
+  source: Corriere della Sera
   title: 'Sopravvivere ai compagni di viaggio: perché la convivenza forzata è la vera sfida per la missione verso Marte'
   date_text: May 27, 2026
   url: https://www.corriere.it/tecnologia/26_maggio_27/sopravvivere-ai-compagni-di-viaggio-perche-la-convivenza-forzata-e-la-vera-sfida-per-la-missione-verso-marte-3b11f4f2-95f2-414e-9d88-4c59bc916xlk.shtml
-  full_text: 'Corriere Della Sera – Sopravvivere ai compagni di viaggio: perché la convivenza forzata è la vera sfida per la missione verso Marte – May 27, 2026'
+  full_text: 'Corriere della Sera – Sopravvivere ai compagni di viaggio: perché la convivenza forzata è la vera sfida per la missione verso Marte – May 27, 2026'
   date: '2026-05-27'
 
 - id: press_58
