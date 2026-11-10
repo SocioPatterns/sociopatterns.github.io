@@ -1,7 +1,7 @@
 ---
 layout: dataset
 title: '"Infectious" exhibition dynamic contact networks'
-slug: infectious-exhibition-dynamic-contact-networks
+slug: infectious-sociopatterns-dynamic-contact-networks
 date: '2011-11-28'
 data_terms_html: 'The data are distributed to the public under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike license</a>. When these data are used in published research or for visualization purposes, please cite <a title="What’s in a crowd?" href="https://www.sciencedirect.com/science/article/abs/pii/S0022519310006284">L. Isella et al., "What’s in a crowd? Analysis of face-to-face behavioral networks", Journal of Theoretical Biology 271, 166 (2011)</a>. Please also acknowledge the <strong>SocioPatterns</strong> collaboration and provide a link to <a href="https://www.sociopatterns.org/">www.sociopatterns.org</a>.'
 files:
